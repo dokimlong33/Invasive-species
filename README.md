@@ -1,4 +1,4 @@
-# Invasive-species
+# The Threats of Invasive Species
 <!DOCTYPE html>
 <html>
 <head>
@@ -108,7 +108,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="img_nature_wide.jpg" style="width:100%">
+  <img src="https://www.nwcb.wa.gov/images/weeds/english-ivy/_fullsize/850/english_ivy_main.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
